@@ -1,2 +1,3 @@
 Git is free software 
-add to test 
+add to test
+Git has a mutable index called stage 
